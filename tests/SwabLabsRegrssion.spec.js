@@ -1,7 +1,7 @@
 const {test,expect}= require('@playwright/test');
 const { PoManager } = require('../Pages/POManager');
 //Json->String->JS object
-const dataset =JSON.parse(JSON.stringify(require("../Pages/PlaceorderData.json")));
+const dataset =JSON.parse(JSON.stringify(require("../Pages/placeorder-data.json")));
 for(const data of dataset)
 {
 test(`First Assignment for vosita - ${data.FilterOption}`, async ({browser}) => {
