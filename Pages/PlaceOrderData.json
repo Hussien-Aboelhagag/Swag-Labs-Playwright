@@ -1,0 +1,21 @@
+[{
+    "username":"standard_user",
+    "password":"secret_sauce",
+    "FilterOption":"Price (high to low)",
+    "productName1":"Sauce Labs Fleece Jacket",
+    "productName2":"Sauce Labs Backpack",
+    "firstname":"John",
+    "lastname":"Wick",
+    "postalcode":"12345"
+},
+{
+    "username":"standard_user",
+    "password":"secret_sauce",
+    "FilterOption":"Price (low to high)",
+    "productName1":"Sauce Labs Onesie",
+    "productName2":"Sauce Labs Fleece Jacket",
+    "firstname":"Hussien",
+    "lastname":"Wick",
+    "postalcode":"12345"
+}
+]
